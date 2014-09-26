@@ -1,3 +1,10 @@
+#Log(n)
+This fork was modified to match one of Log(n)'s project's design.
+The changes included are a square green box around the selected image and also showing a green circle with a white number containing the number of the selected image.
+
+![Log(n) changes](/Web/LogN-Changes.png)
+
+## Origial README
 ![alt text](https://cloud.githubusercontent.com/assets/4034956/3212805/680b1e88-ef75-11e3-9410-a5de4b4f92d2.gif "Demo gif")
 
 A mix between the native iOS 7 gallery and facebooks image picker.
