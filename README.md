@@ -4,7 +4,15 @@ The changes included are a square green box around the selected image and also s
 
 ![Log(n) changes](/Web/LogN-Changes.png)
 
-## Origial README
+## Log(n) Installation
+In order to use this `pod` for Log(n) projects use the following `Podfile` entry:
+```ruby
+pod 'BSImagePicker', :git => 'git@github.com:lognllc/BSImagePicker.git'
+```
+
+
+
+### Origial README
 ![alt text](https://cloud.githubusercontent.com/assets/4034956/3212805/680b1e88-ef75-11e3-9410-a5de4b4f92d2.gif "Demo gif")
 
 A mix between the native iOS 7 gallery and facebooks image picker.
